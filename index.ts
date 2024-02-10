@@ -79,6 +79,6 @@ function hi(name:string|number){
 
     }else{
         name 
-        //이때의 name은 never이다.
+        //이때의 name은 never이다.절대 실행되면 안돼
     }
 }
